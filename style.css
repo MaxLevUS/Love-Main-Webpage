@@ -19,7 +19,7 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(/images/background2.png);
+  background: url(/images./background2.png);
   background-size: cover;
 }
 
