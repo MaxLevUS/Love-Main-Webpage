@@ -21,6 +21,7 @@ p {
   align-items: center;
   background: url(https://thumbs.dreamstime.com/b/luxury-fashion-style-nails-manicure-cosmetics-make-up-curly-hair-makeup-shades-purple-violet-earrings-58380679.jpg);
   background-size: cover;
+  opacity: 0.5;
 }
 
 .banner .content {
@@ -30,12 +31,12 @@ p {
 
 .banner .content h2 {
   font-size: 5em;
-  color: #ff0157;
+  color: #fff;
 }
 
 .banner .content p {
   font-size: 1em;
-  color: #ff0157;
+  color: #fff;
   font-weight: bolder;
 }
 
